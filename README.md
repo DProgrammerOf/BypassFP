@@ -19,7 +19,7 @@ Funcionamento resumido:
  
  
   _Observações:
- 1.Algumas APIs nativas não são documentadas pela Microsoft (__NtResumeProcess e NtSuspendProcess__).
+ 1.Algumas APIs nativas não são documentadas pela Microsoft (NtResumeProcess e NtSuspendProcess).
  2.Divulgação desse projeto é de cunho educativo.
  3.Não ajudo a burlar jogos on-line, evite contato.
  _
