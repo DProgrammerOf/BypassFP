@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580065094 source:c:\users\renan\desktop\testinlinetwo\main.cpp
+	<iostream>
+	<Windows.h>
+	<ddk/ntifs.h>
+	<tlhelp32.h>
+	<process.h>
+	<string.h>
+
